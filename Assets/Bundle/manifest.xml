@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<BundleManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BasePath>Assets/Bundle</BasePath>
+  <Namespace>Nebulous LIDAR</Namespace>
+  
+  <Components>
+		<Entry Name="BestCIC" Address="BestCIC.prefab"/>
+		<Entry Name="Nerdar" Address="Nerdar.prefab"/>
+		<Entry Name="Mark 3 Eyeball" Address="Mark 3 Eyeball.prefab"/>
+		<Entry Name="Mk. 4 Eyeball" Address="Mk. 4 Eyeball.prefab"/>
+  </Components>
+</BundleManifest>
+

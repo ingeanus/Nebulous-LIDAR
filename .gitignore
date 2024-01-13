@@ -1,6 +1,13 @@
 *.vsconfig
 *.csproj
 *.sln
+*.meta
+*.unity
+Assets/Settings
+Assets/Lib
+Assets/Editor/AssetBundles
+Assets/Editor/GeneratedCode
+Assets/Editor/Mods
 Library/
 Logs/
 Packages/
