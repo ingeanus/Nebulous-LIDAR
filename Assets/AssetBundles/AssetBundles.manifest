@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 501600606
+CRC: 2871449465
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: universalsensors
+      Name: sensors
       Dependencies: {}

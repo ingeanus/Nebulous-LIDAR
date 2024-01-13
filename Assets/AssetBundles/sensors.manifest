@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 596071766
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf435cce0f5930fe223423bd6c2e92c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 431c784e4fd5743cf1c72281d932daaf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 781962617, guid: 9b8ed684c6e642b4ba6420bbee083c18, type: 3}
+- Class: 114
+  Script: {fileID: 651954334, guid: 9b8ed684c6e642b4ba6420bbee083c18, type: 3}
+- Class: 114
+  Script: {fileID: -954766946, guid: 9b8ed684c6e642b4ba6420bbee083c18, type: 3}
+- Class: 114
+  Script: {fileID: -1466729778, guid: 9b8ed684c6e642b4ba6420bbee083c18, type: 3}
+- Class: 114
+  Script: {fileID: 976580525, guid: 9b8ed684c6e642b4ba6420bbee083c18, type: 3}
+- Class: 114
+  Script: {fileID: 1679096041, guid: 9b8ed684c6e642b4ba6420bbee083c18, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundle/manifest.xml
+- Assets/Bundle/R551 Better Early Warning Radar.prefab
+Dependencies: []

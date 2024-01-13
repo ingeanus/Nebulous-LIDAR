@@ -4,10 +4,7 @@
   <Namespace>Nebulous LIDAR</Namespace>
   
   <Components>
-		<Entry Name="BestCIC" Address="BestCIC.prefab"/>
-		<Entry Name="Nerdar" Address="Nerdar.prefab"/>
-		<Entry Name="Mark 3 Eyeball" Address="Mark 3 Eyeball.prefab"/>
-		<Entry Name="Mk. 4 Eyeball" Address="Mk. 4 Eyeball.prefab"/>
+		<Entry Name="R551 Better Early Warning Radar" Address="R551 Better Early Warning Radar.prefab"/>
   </Components>
 </BundleManifest>
 

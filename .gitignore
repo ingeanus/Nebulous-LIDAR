@@ -3,6 +3,7 @@
 *.sln
 *.meta
 *.unity
+.vs/
 Assets/Settings
 Assets/Lib
 Assets/Editor/AssetBundles
