@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2347002317
+CRC: 3656031146
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9890d32322989546320270eca1418b3d
+    Hash: 35665aada08537ef16e07e4bf5d33809
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 88149d385e5ca7e7587bc369e72a0558
+    Hash: 0c8a1c1133d5ade9f07a6ffb0601b76f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -36,9 +36,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 651954334, guid: 9b8ed684c6e642b4ba6420bbee083c18, type: 3}
 - Class: 114
+  Script: {fileID: -1594382245, guid: 9b8ed684c6e642b4ba6420bbee083c18, type: 3}
+- Class: 114
   Script: {fileID: -954766946, guid: 9b8ed684c6e642b4ba6420bbee083c18, type: 3}
 - Class: 114
   Script: {fileID: -1466729778, guid: 9b8ed684c6e642b4ba6420bbee083c18, type: 3}
+- Class: 114
+  Script: {fileID: 1024542380, guid: 9b8ed684c6e642b4ba6420bbee083c18, type: 3}
 - Class: 114
   Script: {fileID: 1679096041, guid: 9b8ed684c6e642b4ba6420bbee083c18, type: 3}
 - Class: 115
@@ -47,8 +51,14 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 205
   Script: {instanceID: 0}
+- Class: 73398921
+  Script: {instanceID: 0}
+- Class: 2083052967
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundle/manifest.xml
+- Assets/Bundle/ES1000 Electro-Optical Detection System.prefab
 - Assets/Bundle/R551 Better Early Warning Radar.prefab
+- Assets/Bundle/LADAR.prefab
 Dependencies: []

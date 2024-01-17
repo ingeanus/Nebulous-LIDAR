@@ -5,6 +5,8 @@
   
   <Components>
 		<Entry Name="R551 Better Early Warning Radar" Address="R551 Better Early Warning Radar.prefab"/>
+		<Entry Name="LADAR" Address="LADAR.prefab"/>
+		<Entry Name="ES1000 Electro-Optical Detection System" Address="ES1000 Electro-Optical Detection System.prefab"/>
   </Components>
 </BundleManifest>
 
